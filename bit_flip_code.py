@@ -15,7 +15,7 @@ try:
         "url": Qconfig.config['url']}
 except:
     qx_config = {
-        "APItoken":"bbc755e9b00c7580baf72cd78584a20e157bff4315be65dbd2662e113c3deebc45bbfafdfad1ea391d63666df1fb22ec15fb4f857c8fca11bdce5d7a3987d02e",
+        "APItoken":"*****",
         "url":"https://quantumexperience.ng.bluemix.net/api"}
     
 from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
